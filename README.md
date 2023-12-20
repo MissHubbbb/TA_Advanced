@@ -4,7 +4,10 @@
  - LearnOpenGL——PBR：https://learnopengl-cn.github.io/07%20PBR/01%20Theory/
  - 知乎——Unity的URP实现PBR： https://zhuanlan.zhihu.com/p/517120906
 
-下面放上展示效果图，图片分上下两个模型，上面的模型是unity默认的URP Lit材质，下面的模型则是个人编写的PBR材质：
+下面放上展示效果图，图片分上下两个模型。
+ - 上面的模型是unity默认的URP Lit材质。Lit材质没有附带粗糙度贴图选项，只有一个smooth滑条，我适当调节了一下。
+ - 下面的模型则是个人编写的PBR材质。
+
 ![image](https://github.com/MissHubbbb/TA_Advanced/blob/main/CoverImage/PBR_0.png)
 ![image](https://github.com/MissHubbbb/TA_Advanced/blob/main/CoverImage/PBR_1.png)
 ![image](https://github.com/MissHubbbb/TA_Advanced/blob/main/CoverImage/PBR_2.png)
