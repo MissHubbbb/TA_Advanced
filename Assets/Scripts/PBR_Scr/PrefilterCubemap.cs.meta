@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a0f2f6984131894ea97e24460fdec86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - genIrradianceMapShader: {fileID: 7200000, guid: 15db22f735b09574a8d357ffc87af430, type: 3}
+  - BRDFLUTCS: {fileID: 7200000, guid: 7a584d9a84f8fa7428792bccc68dbdd9, type: 3}
+  - material: {fileID: 2100000, guid: 71d2262d419e73245937508b0febc46f, type: 2}
+  - envCM: {fileID: 8900000, guid: 5624bcfaceb29084cbd6b0c706149c8a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

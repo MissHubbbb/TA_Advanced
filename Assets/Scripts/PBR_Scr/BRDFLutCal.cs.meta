@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa8825c7dfde6c447b955ca69fbca166
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BRDFLUTCS: {fileID: 7200000, guid: 7a584d9a84f8fa7428792bccc68dbdd9, type: 3}
+  - material: {fileID: 2100000, guid: 553a3201857f8c545a322ba07a8a03cb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
